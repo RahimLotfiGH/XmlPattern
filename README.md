@@ -47,3 +47,5 @@ In this section, we introduce the XML Pattern. To better understand it, we will 
 As you can see, we have any type of data (string, number, Boolean, list, …).
 
 <h5>Author: Rahim Lotfi</h5>
+<h6>Site: www.Heilton.com</h6>
+<h6>Email: mr_lotfi@ymail.com</h6>
