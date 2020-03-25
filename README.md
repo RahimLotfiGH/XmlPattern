@@ -1,4 +1,5 @@
 Abstract
+
 Designing object-oriented applications by itself is difficult and designing reusable object-oriented applications is even harder. A design pattern is a mechanism for expressing experience in an object-oriented design, and is an appropriate solution provided for one type of problem, which can be repeatedly used during design. Using design patterns enhances the durability and quality of the code.
 This article introduces a new pattern for mapping a structured file (JSON, XML, etc.) to objects. Using the XML Pattern enhances the quality and durability of the code, and is easily extensible. 
 Keywords: OFM, XML Pattern
