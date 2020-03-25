@@ -1,3 +1,6 @@
+XML Pattern  
+
+
 Abstract
 
 Designing object-oriented applications by itself is difficult and designing reusable object-oriented applications is even harder. A design pattern is a mechanism for expressing experience in an object-oriented design, and is an appropriate solution provided for one type of problem, which can be repeatedly used during design. Using design patterns enhances the durability and quality of the code.
